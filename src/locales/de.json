@@ -262,7 +262,11 @@
 			"Max": "max",
 			"Min": "min",
 			"Name": "Name",
+<<<<<<< HEAD
             "Presets": "Presets",
+=======
+			"Presets": "Presets",
+>>>>>>> master
 			"SetupTemperatures": "Einstellungen",
 			"Show": "Anzeigen",
 			"ShowChart": "Temperaturverlauf anzeigen",
@@ -390,15 +394,28 @@
 		"PresetsPanel": {
 			"AddPreset": "Voreinstellung hinzufügen",
 			"Cooldown": "Abkühlen",
+<<<<<<< HEAD
             "CreateHeadline": "Preset erstellen",
 			"CustomGCode": "Benutzerdefinierter G-Code",
             "EditHeadline": "Preset bearbeiten",
+=======
+			"CreateHeadline": "Preset erstellen",
+			"CustomGCode": "Benutzerdefinierter G-Code",
+>>>>>>> master
 			"EditCooldown": "Abkühlen bearbeiten",
+			"EditHeadline": "Preset bearbeiten",
 			"Name": "Name",
+<<<<<<< HEAD
             "PreheatPresets": "Vorheizpresets",
 			"PresetInfo": "Eine Mindesttemperatur oder ein benutzerdefinierter G-Code müssen angegeben werden.",
             "StoreButton": "Preset speichern",
             "UpdateButton": "Preset aktualisieren ",
+=======
+			"PreheatPresets": "Vorheizpresets",
+			"PresetInfo": "Eine Mindesttemperatur oder ein benutzerdefinierter G-Code müssen angegeben werden.",
+			"StoreButton": "Preset speichern",
+			"UpdateButton": "Preset aktualisieren ",
+>>>>>>> master
 			"UpdateCooldown": "Abkühlen bearbeiten"
 		},
 		"RemotePrintersPanel": {
