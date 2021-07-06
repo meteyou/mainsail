@@ -2,8 +2,8 @@ version: "3.8"
 services:
   api:
     build:
-      context: ./docker
-      dockerfile: api/Dockerfile
+      context: ./docker/api
+      dockerfile: Dockerfile
     image: mainsail-stack-api/1
     volumes:
       - ./docker/config:/home/node/printer_config
