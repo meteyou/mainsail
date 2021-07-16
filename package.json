@@ -29,7 +29,7 @@
     "object-assign-deep": "^0.4.0",
     "onigasm": "^2.2.5",
     "semver": "^7.3.5",
-    "serialize-javascript": "^1.9.1",
+    "serialize-javascript": "^3.1.0",
     "vue": "^2.6.12",
     "vue-class-component": "^7.2.6",
     "vue-context": "^6.0.0",
